@@ -1,0 +1,26 @@
+Capstone Preliminary Ideas
+Luke Morrell
+4/24/2019
+
+In general my objective is to have a down to earth, pratical, yet useful capstone that can help showcase my talents to future employers. 
+I ultimately want to show that I can help them make better business decisions, make more money, and provide more value to their customers.
+
+1. Youtube trending video. Plenty of different datasets for youtube out there.  Condense data down to bare minimum and try to predict if 
+a video will go viral.  
+Another idea with youtube data would be to acquire data about kids channels (or all channels in general) and try to predict whether
+a channel will be blocked or not.  May be hard to acquire that data, relevant to me as I have kids and Youtube Kids is out of control 
+with total rubbish targeted at our youth.  Youtube has taken measurements but it would be best to not wait until flags are thrown and be 
+able to predict or detect early stages of a channel with inappropriate content.
+
+2. Identify fraudulent transactions.  I am a victim of identity theft and am amazed to watch banks simply investigate and bury the issue, 
+then lose the money that was fraudulently withdrawn.  I would love to try my hat at identifying the fraud and remember wanting to do this 
+when the bank accounts were being used in my name.
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+3. Car loan default prediction.  THe data looks clean but would take some processing and there seems to be a lot of data that could be useful 
+and even more that is most likely extraneous.  There appears to be some outliers on in the load amount that I would probably remove as they 
+don't fall within a realistic car loan.  
+https://www.kaggle.com/avikpaul4u/vehicle-loan-default-prediction
+
+4. USA Statistics, age, gender, debt, income, rent/mortgage, etc.  Data looked interesting but am not sure about what to glean from the data. 
+https://www.kaggle.com/goldenoakresearch/us-acs-mortgage-equity-loans-rent-statistics
